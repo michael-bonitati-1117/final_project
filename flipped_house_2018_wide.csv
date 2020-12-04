@@ -1,0 +1,441 @@
+"","state","district","candidate_democrat","candidate_republican","total_votes_democrat","total_votes_republican","vote_share_dem","vote_share_rep","winner_party","year","gender_dem","gender_rep","winner_gender","pres_winner","flip"
+"1","AK",0,"Alyse S. Galvin","Don Young",131199,149779,0.464970974532722,0.530818737906055,"Republican",2018,"female","male","male","Trump",FALSE
+"2","AL",1,"Robert Kennedy Jr.","Bradley Byrne",89226,153228,0.36776483098876,0.631563328208658,"Republican",2018,"male","male","male","Trump",FALSE
+"3","AL",2,"Tabitha Isner","Martha Roby",86931,138879,0.384259382044822,0.613884100251956,"Republican",2018,"female","female","female","Trump",FALSE
+"4","AL",3,"Mallory Hagan","Mike Rogers",83996,147770,0.362184421016321,0.637173102214173,"Republican",2018,"female","male","male","Trump",FALSE
+"5","AL",4,"Lee Auman","Robert Aderholt",46492,184255,0.201291082353043,0.797747749698011,"Republican",2018,"male","male","male","Trump",FALSE
+"6","AL",6,"Danner Kline","Gary Palmer",85644,192542,0.307708890230232,0.691780920352965,"Republican",2018,"male","male","male","Trump",FALSE
+"7","AL",7,"Terri Sewell","No candidate",185010,0,0.978045389426051,NA,"Democrat",2018,"female","N/A","female","Clinton",FALSE
+"8","AR",1,"Chintan Desai","Rick Crawford",57907,138757,0.287743794876891,0.689492906656066,"Republican",2018,"male","male","male","Trump",FALSE
+"9","AR",2,"Clarke Tucker","French Hill",116135,132125,0.458211187083996,0.521299807064821,"Republican",2018,"male","male","male","Trump",FALSE
+"10","AR",3,"Josh Mahony","Steve Womack",74952,148717,0.326292510491581,0.64741759102861,"Republican",2018,"male","male","male","Trump",FALSE
+"11","AR",4,"Hayden Catherine Shamel","Bruce Westerman",63984,136740,0.31228159225348,0.667375983444937,"Republican",2018,"male","male","male","Trump",FALSE
+"12","AZ",1,"Tom O'Halleran","Wendy Rogers",143240,122784,0.538316127310787,0.461439593519462,"Democrat",2018,"male","female","male","Trump",TRUE
+"13","AZ",2,"Ann Kirkpatrick","Lea Marquez Peterson",161000,133083,0.54733607114689,0.45242935625119,"Democrat",2018,"female","female","female","Clinton",FALSE
+"14","AZ",3,"Raul Grijalva","Nicolas ""Nick"" Pierson",114650,64868,0.638654619592464,0.361345380407536,"Democrat",2018,"male","male","male","Clinton",FALSE
+"15","AZ",4,"David Brill","Paul Gosar",84521,188842,0.305091414442218,0.681653942642626,"Republican",2018,"male","male","male","Trump",FALSE
+"16","AZ",5,"Joan Greene","Andy Biggs",127027,186037,0.405754095009327,0.594245904990673,"Republican",2018,"female","male","male","Trump",FALSE
+"17","AZ",6,"Anita Malik","David Schweikert",140559,173140,0.448069646380766,0.551930353619234,"Republican",2018,"female","male","male","Trump",FALSE
+"18","AZ",7,"Ruben Gallego","No candidate",113044,0,0.85606318770778,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"19","AZ",8,"Hiral Tipirneni","Debbie Lesko",135569,168835,0.44533978062986,0.554617514790567,"Republican",2018,"female","female","female","Trump",FALSE
+"20","AZ",9,"Greg Stanton","Stephen L Ferrara",159583,101662,0.610855710157132,0.389144289842868,"Democrat",2018,"male","male","male","Clinton",FALSE
+"21","CA",1,"Audrey Denney","Doug La Malfa",263096,320092,0.451134111127115,0.548865888872885,"Republican",2018,"female","male","male","Trump",FALSE
+"22","CA",10,"Josh Harder","Jeff Denham",231890,211910,0.522510139702569,0.477489860297431,"Democrat",2018,"male","male","male","Clinton",FALSE
+"23","CA",11,"Mark DeSaulnier","John Fitzgerald",408738,142624,0.741324211679441,0.258675788320559,"Democrat",2018,"male","male","male","Clinton",FALSE
+"24","CA",12,"Nancy Pelosi","Lisa Remmer",550584,83560,0.868231821163647,0.131768178836353,"Democrat",2018,"female","female","female","Clinton",FALSE
+"25","CA",13,"Barbara Lee","No candidate",521160,0,0.883810376580958,NA,"Democrat",2018,"female","N/A","female","Clinton",FALSE
+"26","CA",14,"Jackie Speier","Cristina Osmena",422768,110878,0.792225557766759,0.207774442233241,"Democrat",2018,"female","female","female","Clinton",FALSE
+"27","CA",15,"Eric Swalwell","Rudy L. Peters Jr.",355978,131880,0.729675438344764,0.270324561655236,"Democrat",2018,"male","male","male","Clinton",FALSE
+"28","CA",16,"Jim Costa","Elizabeth Heng",164532,121386,0.575451702935807,0.424548297064193,"Democrat",2018,"male","female","male","Clinton",FALSE
+"29","CA",17,"Ro Khanna","Ron Cohen",318210,104114,0.753473636355026,0.246526363644974,"Democrat",2018,"Unknown","male","Unknown","Clinton",FALSE
+"30","CA",18,"Anna G. Eshoo","Christine Russell",450284,154192,0.744916258048293,0.255083741951707,"Democrat",2018,"female","female","female","Clinton",FALSE
+"31","CA",19,"Zoe Lofgren","Justin James Aguilera",324992,115646,0.737548736150763,0.262451263849237,"Democrat",2018,"female","male","female","Clinton",FALSE
+"32","CA",2,"Jared Huffman","Dale K. Mensing",486162,145152,0.770079548370541,0.229920451629459,"Democrat",2018,"male","male","male","Clinton",FALSE
+"33","CA",20,"Jimmy Panetta","No candidate",367354,0,0.813734654728625,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"34","CA",21,"TJ Cox","David G. Valadao",114478,112754,0.503793479791579,0.496206520208421,"Democrat",2018,"male","male","male","Clinton",FALSE
+"35","CA",22,"Andrew Janz","Devin G. Nunes",210272,234486,0.472778454800139,0.527221545199862,"Republican",2018,"male","male","male","Trump",FALSE
+"36","CA",23,"Tatiana Matta","Kevin McCarthy",149322,262226,0.362830095152935,0.637169904847065,"Republican",2018,"female","male","male","Trump",FALSE
+"37","CA",24,"Salud Carbajal","Justin Fareed",333100,235762,0.58555502037401,0.41444497962599,"Democrat",2018,"female","male","female","Clinton",FALSE
+"38","CA",25,"Katie Hill","Steve Knight",266418,223626,0.54366138550824,0.45633861449176,"Democrat",2018,"female","male","female","Clinton",FALSE
+"39","CA",26,"Julia Brownley","Antonio Sabato, Jr.",316432,194420,0.619420106018964,0.380579893981036,"Democrat",2018,"female","male","female","Clinton",FALSE
+"40","CA",27,"Bryan Witt","No candidate",84264,0,0.207919619416096,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"41","CA",27,"Judy Chu","No candidate",321008,0,0.792080380583904,NA,"Democrat",2018,"female","N/A","female","Clinton",FALSE
+"42","CA",28,"Adam B. Schiff","Johnny J. Nalbandian",393324,108544,0.783720021997816,0.216279978002184,"Democrat",2018,"male","male","male","Clinton",FALSE
+"43","CA",29,"Tony Cardenas","Benito Benny Bernal",249394,59990,0.8060985700618,0.1939014299382,"Democrat",2018,"male","male","male","Clinton",FALSE
+"44","CA",3,"John Garamendi","Charlie Schaupp",269750,194752,0.58072946941025,0.41927053058975,"Democrat",2018,"male","male","male","Clinton",FALSE
+"45","CA",30,"Brad Sherman","Mark S. Reed",383146,138840,0.734015854831356,0.265984145168644,"Democrat",2018,"male","male","male","Clinton",FALSE
+"46","CA",31,"Pete Aguilar","Sean Flynn",220286,154704,0.587444998533294,0.412555001466706,"Democrat",2018,"male","male","male","Clinton",FALSE
+"47","CA",32,"Grace Flores Napolitano","Joshua M. Scott",243518,110544,0.687783495545978,0.312216504454022,"Democrat",2018,"female","male","female","Clinton",FALSE
+"48","CA",33,"Ted W. Lieu","Kenneth Weston Wright",438182,187538,0.700284472287924,0.299715527712076,"Democrat",2018,"male","male","male","Clinton",FALSE
+"49","CA",34,"Jimmy Gomez","No candidate",220390,0,0.725415717614841,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"50","CA",35,"Norma J. Torres","Christian Leonel Valiente",206840,91208,0.693982177367404,0.306017822632596,"Democrat",2018,"female","male","female","Clinton",FALSE
+"51","CA",36,"Raul Ruiz","Kimberlin Brown Pelzer",244338,169678,0.590165597464832,0.409834402535168,"Democrat",2018,"male","female","male","Clinton",FALSE
+"52","CA",37,"Karen Bass","Ron J. Bassilian",421110,51646,0.890755484858997,0.109244515141003,"Democrat",2018,"female","male","female","Clinton",FALSE
+"53","CA",38,"Linda T. Sanchez","Ryan Downing",278376,125936,0.688517778349394,0.311482221650606,"Democrat",2018,"female","male","female","Clinton",FALSE
+"54","CA",39,"Gil Cisneros","Young Kim",252004,236782,0.515571231581919,0.484428768418081,"Democrat",2018,"male","male","male","Clinton",FALSE
+"55","CA",4,"Jessica Morse","Tom McClintock",312506,368802,0.458685352292942,0.541314647707058,"Republican",2018,"female","male","male","Trump",FALSE
+"56","CA",40,"Lucille Roybal-Allard","No candidate",187876,0,0.773476932704263,NA,"Democrat",2018,"female","N/A","female","Clinton",FALSE
+"57","CA",41,"Mark Takano","Aja Smith",216454,116042,0.65099730523074,0.34900269476926,"Democrat",2018,"male","female","male","Clinton",FALSE
+"58","CA",42,"Julia C Peacock","Ken Calvert",201784,262080,0.435006812341548,0.564993187658452,"Republican",2018,"female","male","male","Trump",FALSE
+"59","CA",43,"Maxine Waters","Omar Navarro",304544,87560,0.77669189806786,0.22330810193214,"Democrat",2018,"female","male","female","Clinton",FALSE
+"60","CA",44,"Aja L. Brown","No candidate",90756,0,0.316615732406748,NA,"Democrat",2018,"female","N/A","female","Clinton",FALSE
+"61","CA",44,"Nanette Diaz Barragan","No candidate",195888,0,0.683384267593252,NA,"Democrat",2018,"female","N/A","female","Clinton",FALSE
+"62","CA",45,"Katie Porter","Mimi Walters",317812,292766,0.520510074060972,0.479489925939028,"Democrat",2018,"female","female","female","Clinton",FALSE
+"63","CA",46,"Lou Correa","Russell Rene Lambert",204556,91276,0.691460017847968,0.308539982152032,"Democrat",2018,"female","male","female","Clinton",FALSE
+"64","CA",47,"Alan Lowenthal","John Briscoe",286708,155364,0.648554986518033,0.351445013481967,"Democrat",2018,"male","male","male","Clinton",FALSE
+"65","CA",48,"Harley Rouda","Dana Rohrabacher",315674,273798,0.535519922914065,0.464480077085935,"Democrat",2018,"male","female","male","Clinton",FALSE
+"66","CA",49,"Mike Levin","Diane L. Harkey",332906,257154,0.564190082364505,0.435809917635495,"Democrat",2018,"male","female","male","Clinton",FALSE
+"67","CA",5,"Mike Thompson","No candidate",411720,0,0.788681240374227,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"68","CA",50,"Ammar Campa-Najjar","Duncan Hunter",250896,268724,0.482845156075594,0.517154843924406,"Republican",2018,"male","male","male","Trump",FALSE
+"69","CA",51,"Juan Vargas","Juan M. Hidalgo Jr.",219054,88602,0.712009517123021,0.287990482876979,"Democrat",2018,"male","male","male","Clinton",FALSE
+"70","CA",52,"Scott Peters","Omar Qudrat",377984,214030,0.638471387500971,0.361528612499029,"Democrat",2018,"male","male","male","Clinton",FALSE
+"71","CA",53,"Susan A. Davis","Morgan Murtaugh",371334,166254,0.690740864751445,0.309259135248555,"Democrat",2018,"female","female","female","Clinton",FALSE
+"72","CA",6,"Doris Matsui","No candidate",324822,0,0.804257721391113,NA,"Democrat",2018,"female","N/A","female","Clinton",FALSE
+"73","CA",6,"Jrmar Jefferson","No candidate",79056,0,0.195742278608887,NA,"Democrat",2018,"Unknown","N/A","Unknown","Clinton",FALSE
+"74","CA",7,"Ami Bera","Andrew Grant",310032,253202,0.550449724270907,0.449550275729093,"Democrat",2018,"female","male","female","Clinton",FALSE
+"75","CA",8,"No candidate","Paul Cook",0,204830,NA,0.599672102350909,"Republican",2018,"N/A","male","male","Trump",FALSE
+"76","CA",8,"No candidate","Tim Donnelly",0,136740,NA,0.400327897649091,"Republican",2018,"N/A","male","male","Trump",FALSE
+"77","CA",9,"Jerry McNerney","Marla Livengood",226828,174698,0.564914849847831,0.435085150152169,"Democrat",2018,"male","female","male","Clinton",FALSE
+"78","CO",1,"Diana DeGette","Charles Casper Stockham",272886,85207,0.738142188248087,0.230480425650472,"Democrat",2018,"female","male","female","Clinton",FALSE
+"79","CO",2,"Joe Neguse","Peter Yu",259608,144901,0.602878680210119,0.336498581095831,"Democrat",2018,"male","male","male","Clinton",FALSE
+"80","CO",3,"Diane Mitsch Bush","Scott R. Tipton",146426,173205,0.435546671663856,0.515201270713795,"Republican",2018,"female","male","male","Trump",FALSE
+"81","CO",4,"Karen McCormick","Ken Buck",145544,224038,0.393807057703027,0.606192942296973,"Republican",2018,"female","male","male","Trump",FALSE
+"82","CO",5,"Stephany Rose Spaulding","Doug Lamborn",126848,184002,0.393150366501883,0.570292426660881,"Republican",2018,"female","male","male","Trump",FALSE
+"83","CO",6,"Jason Crow","Mike Coffman",187639,148685,0.54103172566512,0.428713125365827,"Democrat",2018,"male","male","male","Clinton",FALSE
+"84","CO",7,"Ed Perlmutter","Mark Barrington",204260,119734,0.604308799252084,0.35423631533168,"Democrat",2018,"male","male","male","Clinton",FALSE
+"85","CT",1,"John B Larson","Jennifer T Nye",166155,96024,0.6060954256949,0.350273582840884,"Democrat",2018,"male","female","male","Clinton",FALSE
+"86","CT",2,"Joe Courtney","Danny Postemski Jr",167659,102483,0.579906196171752,0.354472630173565,"Democrat",2018,"male","male","male","Clinton",FALSE
+"87","CT",3,"Rosa L DeLauro","Angel Cadena",163211,95667,0.603950577081768,0.354008858824966,"Democrat",2018,"female","male","female","Clinton",FALSE
+"88","CT",4,"Jim Himes","Harry Arora",168726,103175,0.612100083076064,0.374295758041872,"Democrat",2018,"male","male","male","Clinton",FALSE
+"89","CT",5,"Jahana Hayes","Manny Santos",142901,115146,0.527964561227204,0.425420447492094,"Democrat",2018,"female","male","female","Clinton",FALSE
+"90","DE",0,"Lisa Blunt Rochester","Scott Walker",227353,125384,0.644539699549523,0.355460300450477,"Democrat",2018,"female","male","female","Clinton",FALSE
+"91","FL",1,"Jennifer M. Zimmerman","Matt Gaetz",212398,432378,0.329413625817338,0.670586374182662,"Republican",2018,"female","male","male","Trump",FALSE
+"92","FL",11,"Dana Cottrell","Daniel Webster",256106,478790,0.348437848633764,0.651404330813647,"Republican",2018,"female","male","male","Trump",FALSE
+"93","FL",12,"Chris Hunter","Gus Michael Bilirakis",265688,389128,0.396646343284028,0.580930257555581,"Republican",2018,"male","male","male","Trump",FALSE
+"94","FL",13,"Charlie Crist","George Buck",365434,268508,0.5764470566708,0.4235529433292,"Democrat",2018,"male","male","male","Clinton",FALSE
+"95","FL",15,"Kristen Carlson","Ross Spano",268264,302760,0.469761707969685,0.530168247341804,"Republican",2018,"female","male","male","Trump",FALSE
+"96","FL",16,"David Shapiro","Vern Buchanan",328926,394966,0.454385460814597,0.545614539185403,"Republican",2018,"male","male","male","Trump",FALSE
+"97","FL",17,"Allen Ellison","Greg Steube",234388,386652,0.377412082957619,0.62258791704238,"Republican",2018,"male","male","male","Trump",FALSE
+"98","FL",18,"Lauren Baer","Brian Mast",312908,371810,0.456988132340613,0.543011867659387,"Republican",2018,"female","male","male","Trump",FALSE
+"99","FL",19,"David Holden","Francis Rooney",256212,422930,0.377218373001734,0.622675622116152,"Republican",2018,"male","male","male","Trump",FALSE
+"100","FL",2,"Bob Rackleff","Neal Dunn",192466,398670,0.325586667027554,0.674413332972446,"Republican",2018,"male","male","male","Trump",FALSE
+"101","FL",20,"Alcee L. Hastings","No candidate",405318,0,0.999186486806295,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"102","FL",22,"Ted Deutch","Nicolas Kimaz",369268,226098,0.620236963481287,0.379763036518713,"Democrat",2018,"male","male","male","Clinton",FALSE
+"103","FL",23,"Debbie Wasserman Schultz","Joseph 'Joe' Kaufman",323222,198892,0.584771643400418,0.359834422468755,"Democrat",2018,"female","male","female","Clinton",FALSE
+"104","FL",25,"Mary Barzee Flores","Mario Diaz-Balart",168346,257344,0.395466184312528,0.604533815687472,"Republican",2018,"female","male","male","Trump",FALSE
+"105","FL",26,"Debbie Mucarsel-Powell","Carlos Curbelo",239594,231356,0.508746151396114,0.491253848603886,"Democrat",2018,"female","male","female","Clinton",FALSE
+"106","FL",27,"Donna Shalala","Maria Elvira Salazar",261486,231176,0.517617761871204,0.457618395318822,"Democrat",2018,"female","female","female","Clinton",FALSE
+"107","FL",3,"Yvonne Hayes Hinson","Ted Yoho",259760,353232,0.423757569429944,0.576242430570056,"Republican",2018,"female","male","male","Trump",FALSE
+"108","FL",4,"George 'Ges' Selmont","John H. Rutherford",246702,496840,0.323544455198571,0.651595151724988,"Republican",2018,"male","male","male","Trump",FALSE
+"109","FL",5,"Al Lawson","Virginia Fuller",361054,179598,0.667812197124953,0.332187802875047,"Democrat",2018,"male","female","male","Clinton",FALSE
+"110","FL",6,"Nancy Soderberg","Michael Waltz",291516,375782,0.436860293302243,0.563139706697757,"Republican",2018,"female","male","male","Trump",FALSE
+"111","FL",7,"Stephanie Murphy","Mike Miller",366226,268570,0.576919199238811,0.423080800761189,"Democrat",2018,"female","male","female","Clinton",FALSE
+"112","FL",8,"Sanjay Patel","Bill Posey",284830,436224,0.395018958358181,0.604981041641819,"Republican",2018,"male","male","male","Trump",FALSE
+"113","FL",9,"Darren Soto","Wayne Liebnitzky",344344,249130,0.580217498997429,0.419782501002571,"Democrat",2018,"male","male","male","Clinton",FALSE
+"114","GA",1,"Lisa M. Ring","Earl L. """"Buddy"""" Carter",105942,144741,0.422613420136188,0.577386579863812,"Republican",2018,"female","male","male","Trump",FALSE
+"115","GA",10,"Tabitha A. Johnson-Green","Jody Hice",112339,190396,0.371080317769667,0.628919682230333,"Republican",2018,"female","female","female","Trump",FALSE
+"116","GA",11,"Flynn D. Broady Jr","Barry Loudermilk",118653,191887,0.382086043665872,0.617913956334128,"Republican",2018,"male","male","male","Trump",FALSE
+"117","GA",12,"Francys Johnson","Rick W. Allen",101503,148986,0.40521453778963,0.594773485779985,"Republican",2018,"female","male","male","Trump",FALSE
+"118","GA",13,"David Scott","David Callahan",223157,69760,0.761601993106037,0.238080611583222,"Democrat",2018,"male","male","male","Clinton",FALSE
+"119","GA",14,"Steven Lamar Foster","Tom Graves",53981,175743,0.234981978374049,0.765018021625951,"Republican",2018,"male","male","male","Trump",FALSE
+"120","GA",2,"Sanford Bishop","Herman West Jr",136699,92472,0.59649344812389,0.40350655187611,"Democrat",2018,"male","male","male","Clinton",FALSE
+"121","GA",3,"Chuck Enderlin","Drew Ferguson",101010,191996,0.344736967843662,0.655263032156338,"Republican",2018,"male","male","male","Trump",FALSE
+"122","GA",4,"Henry C """"Hank"""" Johnson Jr","Joe Profit",227717,61092,0.78846919590456,0.21153080409544,"Democrat",2018,"male","male","male","Clinton",FALSE
+"123","GA",5,"John R. Lewis","No candidate",275406,0,1,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"124","GA",6,"Lucy McBath","Karen Handel",160139,156875,0.505119357036514,0.494823866360494,"Democrat",2018,"female","female","female","Trump",TRUE
+"125","GA",7,"Carolyn Bourdeaux","Rob Woodall",140011,140430,0.499252962298665,0.500747037701335,"Republican",2018,"female","male","male","Trump",FALSE
+"126","GA",8,"No candidate","Austin Scott",0,198152,NA,0.997161778618732,"Republican",2018,"N/A","male","male","Trump",FALSE
+"127","GA",9,"Josh McCall","Doug Collins",57912,224661,0.204941644430918,0.795040661339524,"Republican",2018,"male","male","male","Trump",FALSE
+"128","HI",1,"Ed Case","Cam Cavasso",134650,42498,0.730955263257895,0.230702835335566,"Democrat",2018,"male","male","male","Clinton",FALSE
+"129","HI",2,"Tulsi Gabbard","Brian Evans",153271,44850,0.773623189868818,0.226376810131182,"Democrat",2018,"female","male","female","Clinton",FALSE
+"130","IA",1,"Abby Finkenauer","Rod Blum",170342,153442,0.509635205524125,0.459073189266492,"Democrat",2018,"female","male","female","Trump",TRUE
+"131","IA",2,"Dave Loebsack","Christopher Peters",171446,133287,0.547903091274571,0.425955457267675,"Democrat",2018,"male","male","male","Trump",TRUE
+"132","IA",3,"Cindy Axne","David Young",175642,167933,0.493042631252439,0.471402786316005,"Democrat",2018,"female","male","female","Trump",TRUE
+"133","IA",4,"J.D. Scholten","Steve King",147246,157676,0.47005755767739,0.50335354077082,"Republican",2018,"Unknown","male","male","Trump",FALSE
+"134","ID",1,"Cristina McNeil","Russ Fulcher",96922,197719,0.307621505130622,0.627541903519547,"Republican",2018,"female","male","male","Trump",FALSE
+"135","ID",2,"Aaron Swisher","Mike Simpson",110381,170274,0.393297821168338,0.606702178831662,"Republican",2018,"male","male","male","Trump",FALSE
+"136","IL",1,"Bobby L. Rush","Jimmy Lee Tillman, Ii",189560,50960,0.735056323555073,0.197607460689842,"Democrat",2018,"male","male","male","Clinton",FALSE
+"137","IL",10,"Brad Schneider","Douglas R. Bennett",156540,82124,0.655901183253444,0.344098816746556,"Democrat",2018,"male","male","male","Clinton",FALSE
+"138","IL",11,"Bill Foster","Nick Stella",145407,82358,0.638408008254122,0.361591991745878,"Democrat",2018,"male","male","male","Clinton",FALSE
+"139","IL",12,"Brendan Kelly","Mike Bost",118724,134884,0.453936828743266,0.515723991848377,"Republican",2018,"male","male","male","Trump",FALSE
+"140","IL",13,"Betsy Dirksen Londrigan","Rodney Davis",134458,136516,0.496189769762456,0.503784398168137,"Republican",2018,"female","male","male","Trump",FALSE
+"141","IL",14,"Lauren Underwood","Randall M. \Randy\ Hultgren",156035,141164,0.525018590237518,0.474981409762482,"Democrat",2018,"female","male","female","Trump",TRUE
+"142","IL",15,"Kevin Gaither","John M. Shimkus",74309,181294,0.290714688116178,0.70926575068073,"Republican",2018,"male","male","male","Trump",FALSE
+"143","IL",16,"Sara Dady","Adam Kinzinger",104569,151254,0.408752076614873,0.591240105540897,"Republican",2018,"female","male","male","Trump",FALSE
+"144","IL",17,"Cheri Bustos","William W. \Bill\ Fawell",142659,87090,0.620934149876604,0.379065850123396,"Democrat",2018,"female","male","female","Trump",TRUE
+"145","IL",18,"Junius Rodriguez","Darin Lahood",95486,195927,0.327665546835591,0.672334453164409,"Republican",2018,"male","male","male","Trump",FALSE
+"146","IL",2,"Robin Kelly","David Merkle",190684,44567,0.810555534301661,0.189444465698339,"Democrat",2018,"female","male","female","Clinton",FALSE
+"147","IL",3,"Daniel William Lipinski","Arthur J. Jones",163053,57885,0.730085880340656,0.259185793475243,"Democrat",2018,"male","male","male","Clinton",FALSE
+"148","IL",4,"Jesus \Chuy\ Garcia","Mark Wayne Lorch",143895,22294,0.865851530486374,0.134148469513626,"Democrat",2018,"male","male","male","Clinton",FALSE
+"149","IL",5,"Mike Quigley","Tom Hanson",213992,65134,0.766636453851417,0.233345633412269,"Democrat",2018,"male","male","male","Clinton",FALSE
+"150","IL",6,"Sean Casten","Peter J. Roskam",169001,146445,0.535752553527387,0.464247446472613,"Democrat",2018,"male","male","male","Clinton",FALSE
+"151","IL",7,"Danny K. Davis","Craig Cameron",215746,30497,0.876150794134249,0.123849205865751,"Democrat",2018,"male","male","male","Clinton",FALSE
+"152","IL",8,"Raja Krishnamoorthi","Jitendra \Jd\ Diganvker",130054,67073,0.659747269526752,0.340252730473248,"Democrat",2018,"male","Unknown","male","Clinton",FALSE
+"153","IL",9,"Janice D. Schakowsky","John D. Elleson",213368,76983,0.734862287369425,0.265137712630575,"Democrat",2018,"female","male","female","Clinton",FALSE
+"154","IN",1,"Peter J. Visclosky","Mark Leyva",159611,85594,0.650918196314165,0.349065491070882,"Democrat",2018,"male","male","male","Clinton",FALSE
+"155","IN",2,"Mel Hall","Jackie Walorski",103363,125499,0.451585703113736,0.548296335778478,"Republican",2018,"male","female","female","Trump",FALSE
+"156","IN",3,"Courtney Tritch","Jim Banks",86610,158927,0.352737062031384,0.647262937968616,"Republican",2018,"female","male","male","Trump",FALSE
+"157","IN",4,"Tobi Beck","Jim Baird",87824,156539,0.359399745460647,0.640600254539353,"Republican",2018,"female","male","male","Trump",FALSE
+"158","IN",5,"Dee Thornton","Susan W. Brooks",137142,180035,0.432383180369321,0.567616819630679,"Republican",2018,"female","female","female","Trump",FALSE
+"159","IN",6,"Jeannine Lee Lake","Greg Pence",79430,154260,0.328595186285298,0.638160561958581,"Republican",2018,"female","male","male","Trump",FALSE
+"160","IN",7,"Andre D. Carson","Wayne ""Gunny"" Harmon",141139,76457,0.648628651261972,0.351371348738028,"Democrat",2018,"male","male","male","Clinton",FALSE
+"161","IN",8,"William Tanoos","Larry D. Bucshon",86895,157396,0.355702829821811,0.644297170178189,"Republican",2018,"male","male","male","Trump",FALSE
+"162","IN",9,"Liz Watson","Trey Hollingsworth",118090,153271,0.435176757161125,0.564823242838875,"Republican",2018,"female","male","male","Trump",FALSE
+"163","KS",1,"Alan LaPolice","Roger Marshall",71558,153082,0.318545227920228,0.681454772079772,"Republican",2018,"male","male","male","Trump",FALSE
+"164","KS",2,"Paul Davis","Steve Watkins",123859,126098,0.467943389953455,0.476402405851418,"Republican",2018,"male","male","male","Trump",FALSE
+"165","KS",3,"Sharice Davids","Kevin Yoder",170518,139762,0.535713051482716,0.439087530356486,"Democrat",2018,"female","male","female","Clinton",FALSE
+"166","KS",4,"James A. Thompson","Ron Estes",98445,144248,0.405635926870573,0.594364073129427,"Republican",2018,"male","male","male","Trump",FALSE
+"167","KY",1,"Paul Walker","James R. Comer",78849,172167,0.314119418682474,0.685880581317526,"Republican",2018,"male","male","male","Trump",FALSE
+"168","KY",2,"Hank Linderman","S. Brett Guthrie",79964,171700,0.310726845285512,0.667197730672832,"Republican",2018,"male","Unknown","Unknown","Trump",FALSE
+"169","KY",3,"John A. Yarmuth","Vickie Yates B. Glisson",173002,101930,0.62070177956372,0.365707520091848,"Democrat",2018,"male","female","male","Clinton",FALSE
+"170","KY",4,"Seth Hall","Thomas Massie",90536,162946,0.345805387071639,0.622377889477946,"Republican",2018,"male","male","male","Trump",FALSE
+"171","KY",5,"Kenneth S. Stepp","Harold ""Hal"" Rogers",45890,172093,0.210488172940642,0.789355875917933,"Republican",2018,"male","male","male","Trump",FALSE
+"172","KY",6,"Amy McGrath","Andy Barr",144736,154468,0.477853199862656,0.509983888434009,"Republican",2018,"female","male","male","Trump",FALSE
+"173","LA",1,"""Jim"" Francis","Steve Scalise",8688,192555,0.0322584238373712,0.714954051796157,"Republican",2018,"Unknown","male","male","Trump",FALSE
+"174","LA",1,"Lee Ann Dugas","No candidate",18560,0,0.0689130232989882,NA,"Democrat",2018,"male","N/A","male","Trump",TRUE
+"175","LA",1,"Tammy M. Savoie","No candidate",44273,0,0.164385036665738,NA,"Democrat",2018,"female","N/A","female","Trump",TRUE
+"176","LA",2,"Cedric Richmond","No candidate",190182,0,0.805917400479698,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"177","LA",3,"""Rob"" Anderson","""Josh"" Guillory",13477,31387,0.0547972497692555,0.127619001150673,"Republican",2018,"Unknown","Unknown","Unknown","Trump",FALSE
+"178","LA",3,"Larry Rader","Clay Higgins",9692,136876,0.0394075049909938,0.556535457402732,"Republican",2018,"male","male","male","Trump",FALSE
+"179","LA",3,"Mildred ""Mimi"" Methvin","No candidate",43729,0,0.177801360477834,NA,"Democrat",2018,"female","N/A","female","Trump",TRUE
+"180","LA",3,"Verone Thomas","No candidate",7815,0,0.0317756553347727,NA,"Democrat",2018,"Unknown","N/A","Unknown","Trump",TRUE
+"181","LA",4,"Ryan Trundle","""Mike"" Johnson",72934,139326,0.336299752849607,0.642434246929064,"Republican",2018,"male","Unknown","Unknown","Trump",FALSE
+"182","LA",5,"Jessee Carlton Fleenor","Ralph Abraham",67118,149018,0.299706179168192,0.665419342162843,"Republican",2018,"male","male","male","Trump",FALSE
+"183","LA",6,"""Andie"" Saizan","Garret Graves",21627,186553,0.0805399869658319,0.694732334047109,"Republican",2018,"Unknown","male","male","Trump",FALSE
+"184","LA",6,"Justin Dewitt","No candidate",55089,0,0.205154082487664,NA,"Democrat",2018,"male","N/A","male","Trump",TRUE
+"185","MA",1,"Richard E. Neal","No candidate",211790,0,0.976440756108806,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"186","MA",2,"James P. McGovern","Tracy Lyn Lovvorn",191332,93391,0.671592492620036,0.327810792121955,"Democrat",2018,"male","female","male","Clinton",FALSE
+"187","MA",3,"Lori Loureiro Trahan","Rick Green",173175,93445,0.619972290541194,0.334536224568337,"Democrat",2018,"female","male","female","Clinton",FALSE
+"188","MA",4,"Joseph P. Kennedy, III","No candidate",245289,0,0.977184721292667,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"189","MA",5,"Katherine M. Clark","John Hugo",236243,74856,0.758833241253485,0.240444039007593,"Democrat",2018,"female","male","female","Clinton",FALSE
+"190","MA",6,"Seth W. Moulton","Joseph S. Schneider",217703,104798,0.651854180702148,0.3137899543379,"Democrat",2018,"male","male","male","Clinton",FALSE
+"191","MA",7,"Ayanna S. Pressley","No candidate",216559,0,0.982523558261611,NA,"Democrat",2018,"female","N/A","female","Clinton",FALSE
+"192","MA",8,"Stephen F. Lynch","No candidate",259159,0,0.984246525918415,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"193","MA",9,"Bill Keating","Peter D. Tedeschi",192347,131463,0.593795534810205,0.405840186708157,"Democrat",2018,"male","male","male","Clinton",FALSE
+"194","MD",1,"Jesse Colvin","Andy Harris",69255,125480,0.348076294825723,0.630663684567638,"Republican",2018,"male","male","male","Trump",FALSE
+"195","MD",2,"C.A. Dutch Ruppersberger","Liz Matory",103194,54335,0.63114824283495,0.332320093943805,"Democrat",2018,"Unknown","female","Unknown","Clinton",FALSE
+"196","MD",3,"John Sarbanes","Charles Anthony",125744,59156,0.6599764863957,0.310484548202889,"Democrat",2018,"male","male","male","Clinton",FALSE
+"197","MD",4,"Anthony G. Brown","George McDermott",127602,35936,0.762431137295204,0.214720187378258,"Democrat",2018,"male","male","male","Clinton",FALSE
+"198","MD",5,"Steny H. Hoyer","William A. Devine, III",132119,58775,0.672419496852145,0.299135294147585,"Democrat",2018,"Unknown","male","Unknown","Clinton",FALSE
+"199","MD",6,"David Trone","Amie Hoeber",102591,79335,0.54527335154614,0.421667215885536,"Democrat",2018,"male","female","male","Clinton",FALSE
+"200","MD",7,"Elijah Cummings","Richmond Davis",119773,36756,0.745329748970118,0.228727177687339,"Democrat",2018,"male","male","male","Clinton",FALSE
+"201","MD",8,"Jamie Raskin","John Walsh",129637,72054,0.630729559442431,0.350568029775951,"Democrat",2018,"female","male","female","Clinton",FALSE
+"202","ME",1,"Chellie Pingree","Mark I. Holbrook",201195,111188,0.58819832014337,0.3250607362017,"Democrat",2018,"female","male","female","Clinton",FALSE
+"203","ME",2,"Jared F. Golden","Bruce Poliquin",142440,138931,0.506235539554538,0.493764460445462,"Democrat",2018,"male","male","male","Trump",TRUE
+"204","MI",1,"Matthew W. Morgan","Jack Bergman",145246,187251,0.436834016547518,0.563165983452482,"Republican",2018,"male","male","male","Trump",FALSE
+"205","MI",10,"Kimberly Bizon","Paul Mitchell",106061,182808,0.349962384182879,0.603199324235145,"Republican",2018,"female","male","male","Trump",FALSE
+"206","MI",11,"Haley Stevens","Lena Epstein",181912,158463,0.518414025608362,0.451588909692477,"Democrat",2018,"female","female","female","Trump",TRUE
+"207","MI",12,"Debbie Dingell","Jeff Jones",200588,85115,0.680817844875572,0.288889718560354,"Democrat",2018,"female","male","female","Clinton",FALSE
+"208","MI",13,"Rashida Tlaib","No candidate",165355,0,0.842362925944605,NA,"Democrat",2018,"female","N/A","female","Clinton",FALSE
+"209","MI",14,"Brenda Lawrence","Marc S. Herschfus",214334,45899,0.808825860208156,0.173207695268572,"Democrat",2018,"female","male","female","Clinton",FALSE
+"210","MI",2,"Rob Davidson","Bill Huizenga",131254,168970,0.429688702068663,0.553160284551648,"Republican",2018,"male","male","male","Trump",FALSE
+"211","MI",3,"Cathy Albro","Justin Amash",134185,169107,0.431824032953595,0.544207375941301,"Republican",2018,"female","male","male","Trump",FALSE
+"212","MI",4,"Jerry Hilliard","John Moolenaar",106540,178510,0.373758989650938,0.626241010349062,"Republican",2018,"male","male","male","Trump",FALSE
+"213","MI",5,"Daniel T. Kildee","Travis Wines",164502,99265,0.595131198604986,0.359118420624211,"Democrat",2018,"male","male","male","Clinton",FALSE
+"214","MI",6,"Matt Longjohn","Fred Upton",134082,147436,0.456934684669334,0.502443446315746,"Republican",2018,"male","male","male","Trump",FALSE
+"215","MI",7,"Gretchen Driskell","Tim Walberg",136330,158730,0.462041618653833,0.537958381346167,"Republican",2018,"female","male","male","Trump",FALSE
+"216","MI",8,"Elissa Slotkin","Mike Bishop",172880,159782,0.506099363862843,0.467755486792762,"Democrat",2018,"female","male","female","Trump",TRUE
+"217","MI",9,"Andy Levin","Candius Stearns",181734,112123,0.596704130179963,0.368143865144486,"Democrat",2018,"male","female","male","Clinton",FALSE
+"218","MN",1,"No candidate","Jim Hagedorn",0,146200,NA,0.50126688175656,"Republican",2018,"N/A","male","male","Trump",FALSE
+"219","MN",2,"No candidate","Jason Lewis",0,159344,NA,0.471476589499598,"Republican",2018,"N/A","male","male","Trump",FALSE
+"220","MN",3,"No candidate","Erik Paulsen",0,160839,NA,0.441927303001245,"Republican",2018,"N/A","male","male","Clinton",FALSE
+"221","MN",4,"No candidate","Greg Ryan",0,97747,NA,0.297452330089406,"Republican",2018,"N/A","male","male","Clinton",FALSE
+"222","MN",5,"No candidate","Jennifer Zielinski",0,74440,NA,0.216799958061266,"Republican",2018,"N/A","female","female","Clinton",FALSE
+"223","MN",6,"No candidate","Tom Emmer",0,192931,NA,0.611070991936046,"Republican",2018,"N/A","male","male","Trump",FALSE
+"224","MN",7,"No candidate","Dave Hughes",0,134668,NA,0.478379021629859,"Republican",2018,"N/A","male","male","Trump",FALSE
+"225","MN",8,"No candidate","Pete Stauber",0,159364,NA,0.507187845110451,"Republican",2018,"N/A","male","male","Trump",FALSE
+"226","MO",1,"Lacy Clay","Robert Vroman",219781,45867,0.801024145785877,0.167169020501139,"Democrat",2018,"female","male","female","Clinton",FALSE
+"227","MO",2,"Cort VanOstran","Ann Wagner",177611,192477,0.472286779448288,0.511817074662426,"Republican",2018,"male","female","female","Trump",FALSE
+"228","MO",3,"Katy Geppert","Blaine Luetkemeyer",106589,211243,0.328362209187697,0.650763382294953,"Republican",2018,"female","male","male","Trump",FALSE
+"229","MO",4,"Renee Hoagenson","Vicky Hartzler",95968,190138,0.327182969902767,0.648236032129171,"Republican",2018,"female","female","female","Trump",FALSE
+"230","MO",5,"Emanuel Cleaver, II","Jacob Turk",175019,101069,0.616730975914865,0.356146378420283,"Democrat",2018,"male","male","male","Clinton",FALSE
+"231","MO",6,"Henry Robert Martin","Sam Graves",97660,199796,0.319767917775835,0.65419159225825,"Republican",2018,"male","male","male","Trump",FALSE
+"232","MO",7,"Jamie Daniel Schoolcraft","Billy Long",89190,196343,0.30085510448466,0.662302879020425,"Republican",2018,"female","male","male","Trump",FALSE
+"233","MO",8,"Kathy Ellis","Jason Smith",66151,194042,0.250193835831452,0.733898388420531,"Republican",2018,"female","male","male","Trump",FALSE
+"234","MS",1,"Randy Mack Wadkins","Trent Kelly",76601,158245,0.323865534138618,0.669052642260095,"Republican",2018,"male","male","male","Trump",FALSE
+"235","MS",2,"Bennie G. Thompson","No candidate",158921,0,0.717868451840509,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"236","MS",3,"Michael Ted Evans","Michael Guest",94461,160284,0.367165362594307,0.623016196928531,"Republican",2018,"male","male","male","Trump",FALSE
+"237","MS",4,"Jeramey Anderson","Steven Palazzo",68787,152633,0.307452666583234,0.68221354120108,"Republican",2018,"male","male","male","Trump",FALSE
+"238","MT",0,"Kathleen Williams","Greg Gianforte",233284,256661,0.462478762779504,0.508822987147641,"Republican",2018,"female","male","male","Trump",FALSE
+"239","NC",1,"G. K. Butterfield","Roger W. Allison",190457,82218,0.698476207939855,0.301523792060145,"Democrat",2018,"Unknown","male","Unknown","Clinton",FALSE
+"240","NC",10,"David Wilson Brown","Patrick McHenry",113259,164969,0.407072616702848,0.592927383297152,"Republican",2018,"male","male","male","Trump",FALSE
+"241","NC",11,"Phillip G. Price","Mark Meadows",116508,178012,0.387499750553771,0.592058962436724,"Republican",2018,"male","male","male","Trump",FALSE
+"242","NC",12,"Alma Adams","Paul Wright",203974,75164,0.730728170295696,0.269271829704304,"Democrat",2018,"female","male","female","Clinton",FALSE
+"243","NC",13,"Kathy Manning","Ted Budd",130402,147570,0.455447826876598,0.51540954749298,"Republican",2018,"female","male","male","Trump",FALSE
+"244","NC",2,"Linda Coleman","George Holding",151977,170072,0.458170537587729,0.51272218604539,"Republican",2018,"female","male","male","Trump",FALSE
+"245","NC",3,"No candidate","Walter B. Jones",0,187901,NA,1,"Republican",2018,"N/A","male","male","Trump",FALSE
+"246","NC",4,"David Price","Steve A. (Von) Loor",247067,82052,0.723681397058608,0.240337665456953,"Democrat",2018,"male","male","male","Clinton",FALSE
+"247","NC",5,"DD Adams","Virginia Foxx",120468,159917,0.42965208552526,0.57034791447474,"Republican",2018,"Unknown","female","female","Trump",FALSE
+"248","NC",6,"Ryan Watts","B. Mark Walker",123651,160709,0.434839639893093,0.565160360106907,"Republican",2018,"male","Unknown","Unknown","Trump",FALSE
+"249","NC",7,"Kyle Horton","David Rouzer",120838,156809,0.428029981013914,0.555445747966788,"Republican",2018,"male","male","male","Trump",FALSE
+"250","NC",8,"Frank McNeill","Richard Hudson",114119,141402,0.446612998540237,0.553387001459763,"Republican",2018,"male","male","male","Trump",FALSE
+"251","NC",9,"Dan McCready","Mark Harris",138341,139246,0.489326782613002,0.492527863552599,"Republican",2018,"male","male","male","Trump",FALSE
+"252","ND",0,"No candidate","Kelly Armstrong",0,193568,NA,0.602017839592949,"Republican",2018,"N/A","female","female","Trump",FALSE
+"253","NE",1,"Jessica McClure","Jeff Fortenberry",93069,141712,0.396407716126944,0.603592283873056,"Republican",2018,"female","male","male","Trump",FALSE
+"254","NE",2,"Kara Eastman","Don Bacon",121770,126715,0.490049701189207,0.509950298810793,"Republican",2018,"female","male","male","Trump",FALSE
+"255","NE",3,"Paul Theobald","Adrian Smith",49654,163650,0.232785132955781,0.767214867044219,"Republican",2018,"male","male","male","Trump",FALSE
+"256","NH",1,"Chris Pappas","Eddie Edwards",155884,130996,0.535612065736894,0.450097753222077,"Democrat",2018,"male","male","male","Trump",TRUE
+"257","NH",2,"Anne McLane Kuster","Steven Negron",155358,117990,0.555435190647289,0.421837292862123,"Democrat",2018,"female","male","female","Clinton",FALSE
+"258","NJ",1,"Donald W. Norcross","Paul E. Dilks",169628,87617,0.643949919899172,0.332615842501272,"Democrat",2018,"male","male","male","Clinton",FALSE
+"259","NJ",10,"Donald M. Payne Jr.","Agha Khan",175253,20191,0.875568922706448,0.100874804530398,"Democrat",2018,"male","male","male","Clinton",FALSE
+"260","NJ",11,"Mikie Sherrill","Jay Webber",183684,136322,0.567672309888928,0.421300846174291,"Democrat",2018,"male","male","male","Trump",TRUE
+"261","NJ",12,"Bonnie Watson Coleman","Daryl Kipnis",173334,79041,0.686811292719168,0.313188707280832,"Democrat",2018,"female","male","female","Clinton",FALSE
+"262","NJ",2,"Jeff Van Drew","Seth Grossman",136685,116866,0.529042471251688,0.452332570840252,"Democrat",2018,"male","male","male","Trump",TRUE
+"263","NJ",3,"Andy Kim","Tom MacArthur",153473,149500,0.500115682281059,0.487169042769857,"Democrat",2018,"male","male","male","Trump",TRUE
+"264","NJ",4,"Joshua Welle","No candidate",126766,0,0.430667101526085,NA,"Democrat",2018,"male","N/A","male","Trump",TRUE
+"265","NJ",5,"Josh Gottheimer","John J. McCann Jr.",169546,128255,0.56173982764733,0.424934481467615,"Democrat",2018,"male","male","male","Trump",TRUE
+"266","NJ",6,"Frank Pallone Jr.","Richard J. Pezzullo",140752,80443,0.636325414227266,0.363674585772734,"Democrat",2018,"male","male","male","Clinton",FALSE
+"267","NJ",7,"Tom Malinowski","Leonard Lance",166985,150785,0.517394699171474,0.46719980665671,"Democrat",2018,"male","male","male","Clinton",FALSE
+"268","NJ",8,"Albio Sires","John R. Muniz",119881,28725,0.781212733374605,0.187188426574566,"Democrat",2018,"Unknown","male","Unknown","Clinton",FALSE
+"269","NJ",9,"Bill Pascrell Jr.","Eric P. Fisher",140832,57854,0.702698387354303,0.288669567300016,"Democrat",2018,"male","male","male","Clinton",FALSE
+"270","NM",1,"Debra A Haaland","Janice E Arnold-Jones",147336,90507,0.591326125171575,0.363245599248682,"Democrat",2018,"female","female","female","Clinton",FALSE
+"271","NM",2,"Xochitl Torres Small","Yvette Herrell",101489,97767,0.509339743847111,0.490660256152889,"Democrat",2018,"female","female","female","Trump",TRUE
+"272","NM",3,"Ben R Lujan","Jerald Steve McFall",155201,76427,0.633750250109231,0.312083236352203,"Democrat",2018,"male","male","male","Clinton",FALSE
+"273","NV",1,"Dina Titus","Joyce Bentley",100707,46978,0.661671079690672,0.308657630370365,"Democrat",2018,"female","female","female","Clinton",FALSE
+"274","NV",2,"Clint Koble","Mark E. Amodei",120102,167435,0.417692331769477,0.582307668230523,"Republican",2018,"male","male","male","Trump",FALSE
+"275","NV",3,"Susie Lee","Danny Tarkanian",148501,122566,0.518929440049202,0.428300858237119,"Democrat",2018,"female","male","female","Trump",TRUE
+"276","NV",4,"Steven A. Horsford","Cresent Hardy",121962,102748,0.519278914113459,0.43747126045268,"Democrat",2018,"male","Unknown","male","Clinton",FALSE
+"277","NY",1,"Perry Gershon","Lee M. Zeldin",124213,121562,0.459957860123754,0.4501412685658,"Democrat",2018,"male","male","male","Trump",TRUE
+"278","NY",10,"Jerrold L. Nadler","Naomi Levin",162131,33692,0.768546345718105,0.159709515638184,"Democrat",2018,"male","female","male","Clinton",FALSE
+"279","NY",11,"Max N. Rose","Dan Donovan",96850,80440,0.503972982677067,0.418581174254448,"Democrat",2018,"male","male","male","Trump",TRUE
+"280","NY",12,"Carolyn B. Maloney","Eliot Rabin",205858,30446,0.817295743557371,0.12087645954176,"Democrat",2018,"female","male","female","Clinton",FALSE
+"281","NY",13,"Adriano Espaillat","Jineea Butler",171341,9535,0.898541072327572,0.0500031465010908,"Democrat",2018,"male","Unknown","male","Clinton",FALSE
+"282","NY",14,"Alexandria Ocasio-Cortez","Anthony Pappas",110318,19202,0.781266819636838,0.135987649075097,"Democrat",2018,"female","male","female","Clinton",FALSE
+"283","NY",15,"Jose E. Serrano","Jason D. Gonzalez",122007,4566,0.940316452281678,0.0351904802275127,"Democrat",2018,"male","male","male","Clinton",FALSE
+"284","NY",16,"Eliot L. Engel","No candidate",172815,0,0.942510744126181,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"285","NY",17,"Nita M. Lowey","No candidate",159923,0,0.825021538271057,NA,"Democrat",2018,"female","N/A","female","Clinton",FALSE
+"286","NY",18,"Sean Patrick Maloney","James O'Donnell",126368,96345,0.502077953037467,0.3827923238905,"Democrat",2018,"male","male","male","Trump",TRUE
+"287","NY",19,"Antonio Delgado","John J. Faso",135582,112304,0.470793719139125,0.38996340099866,"Democrat",2018,"male","male","male","Trump",TRUE
+"288","NY",2,"Liuba Grechen Shirley","Peter T. King",108803,112565,0.451058590397858,0.466654506108608,"Republican",2018,"Unknown","male","male","Trump",FALSE
+"289","NY",20,"Paul D. Tonko","Joe Vitollo",161330,89058,0.606471839827979,0.334786890915516,"Democrat",2018,"male","male","male","Clinton",FALSE
+"290","NY",21,"Tedra L. Cobb","Elise M. Stefanik",93394,116433,0.396970250821407,0.494897286912317,"Republican",2018,"female","female","female","Trump",FALSE
+"291","NY",22,"Anthony J. Brindisi","Claudia Tenney",116001,110125,0.461765361527316,0.438374759167556,"Democrat",2018,"male","female","male","Trump",TRUE
+"292","NY",23,"Tracy Mitrano","Thomas W. Reed, II",100914,114722,0.419820779285613,0.47726459600456,"Republican",2018,"female","male","male","Trump",FALSE
+"293","NY",24,"Dana Balter","John M. Katko",115902,113538,0.444960591530154,0.43588493417845,"Democrat",2018,"female","male","female","Clinton",FALSE
+"294","NY",25,"Joseph D. Morelle","Jim Maxwell",147979,91342,0.547826891751814,0.338153413297794,"Democrat",2018,"male","male","male","Clinton",FALSE
+"295","NY",26,"Brian Higgins","Renee M. Zeno",156968,61488,0.680507927149131,0.266570711384141,"Democrat",2018,"male","female","male","Clinton",FALSE
+"296","NY",27,"Nathan D. McMurray","Chris Collins",128167,114506,0.449235892043463,0.401352961794602,"Democrat",2018,"male","male","male","Trump",TRUE
+"297","NY",3,"Thomas R. Suozzi","Dan P. DeBono",149937,98716,0.561431427908126,0.369637013128038,"Democrat",2018,"male","male","male","Clinton",FALSE
+"298","NY",4,"Kathleen M. Rice","Ameer N. Benno",156728,90306,0.60232277503209,0.347055794255321,"Democrat",2018,"female","male","female","Clinton",FALSE
+"299","NY",5,"Gregory W. Meeks","No candidate",160500,0,0.993986536282057,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"300","NY",6,"Grace Meng","No candidate",104293,0,0.845018270796704,NA,"Democrat",2018,"female","N/A","female","Clinton",FALSE
+"301","NY",7,"Nydia M. Velazquez","No candidate",134125,0,0.852659216030311,NA,"Democrat",2018,"female","N/A","female","Clinton",FALSE
+"302","NY",8,"Hakeem S. Jeffries","No candidate",170850,0,0.891855068983698,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"303","NY",9,"Yvette D. Clarke","Lutchi Gayot",167269,18702,0.822271817837708,0.0919365066880343,"Democrat",2018,"female","Unknown","female","Clinton",FALSE
+"304","OH",1,"Aftab Pureval","Steve Chabot",141118,154409,0.469031578317618,0.513206656673458,"Republican",2018,"male","male","male","Trump",FALSE
+"305","OH",10,"Theresa A. Gasper","Mike Turner",118785,157554,0.421633076109411,0.559245508046826,"Republican",2018,"female","male","male","Trump",FALSE
+"306","OH",11,"Marcia L. Fudge","Beverly A. Goldstein",206138,44486,0.822380914386021,0.177475464772999,"Democrat",2018,"female","female","female","Clinton",FALSE
+"307","OH",12,"Danny O'Connor","Troy Balderson",161251,175677,0.47198131404637,0.514206183575445,"Republican",2018,"male","male","male","Trump",FALSE
+"308","OH",13,"Tim Ryan","Chris DePizzo",153323,98047,0.60994947686677,0.39005052313323,"Democrat",2018,"male","male","male","Clinton",FALSE
+"309","OH",14,"Betsy Rader","David P. Joyce",137549,169809,0.447520481002609,0.552479518997391,"Republican",2018,"female","male","male","Trump",FALSE
+"310","OH",15,"Rick Neal","Steve Stivers",116112,170593,0.397041474748925,0.583337607670555,"Republican",2018,"male","male","male","Trump",FALSE
+"311","OH",16,"Susan Moran Palmer","Anthony Gonzalez",129681,170029,0.432688265323146,0.567311734676854,"Republican",2018,"female","male","male","Trump",FALSE
+"312","OH",2,"Jill Schiller","Brad Wenstrup",119333,166714,0.411974687652117,0.575548658604369,"Republican",2018,"female","male","male","Trump",FALSE
+"313","OH",3,"Joyce Beatty","Jim Burgess",181575,65040,0.736084028912302,0.263664630265489,"Democrat",2018,"female","male","female","Clinton",FALSE
+"314","OH",4,"Janet Garrett","Jim Jordan",89412,167993,0.347359219906373,0.652640780093627,"Republican",2018,"female","male","male","Trump",FALSE
+"315","OH",5,"J. Michael Galbraith","Bob Latta",99655,176569,0.351371744288953,0.622561412045117,"Republican",2018,"Unknown","male","male","Trump",FALSE
+"316","OH",6,"Shawna Roberts","Bill Johnson",76716,172774,0.30749128221572,0.69250871778428,"Republican",2018,"female","male","male","Trump",FALSE
+"317","OH",7,"Ken Harbaugh","Bob Gibbs",107536,153117,0.412563830072932,0.587436169927068,"Republican",2018,"male","male","male","Trump",FALSE
+"318","OH",8,"Vanessa Enoch","Warren Davidson",87281,173852,0.334239640336533,0.665760359663466,"Republican",2018,"female","male","male","Trump",FALSE
+"319","OH",9,"Marcy Kaptur","Steven W. Kraus",157219,74670,0.67785217537521,0.32194087187469,"Democrat",2018,"female","male","female","Clinton",FALSE
+"320","OK",1,"Tim Gilpin","Kevin Hern",103042,150129,0.407005541708964,0.592994458291036,"Republican",2018,"male","male","male","Trump",FALSE
+"321","OK",2,"Jason Nichols","Markwayne Mullin",65021,140451,0.301020360922584,0.650230090462125,"Republican",2018,"male","Unknown","Unknown","Trump",FALSE
+"322","OK",3,"Frankie Robbins","Frank D. Lucas",61152,172913,0.26126076089975,0.73873923910025,"Republican",2018,"male","male","male","Trump",FALSE
+"323","OK",4,"Mary Brannon","Tom Cole",78088,149227,0.329989266305496,0.630613003828633,"Republican",2018,"female","male","male","Trump",FALSE
+"324","OK",5,"Kendra Horn","Steve Russell",121149,117811,0.506984432541011,0.493015567458989,"Democrat",2018,"female","male","female","Trump",TRUE
+"325","OR",1,"Suzanne Bonamici","John Verbeek",231198,116446,0.63647250233311,0.32056798504607,"Democrat",2018,"female","male","female","Clinton",FALSE
+"326","OR",2,"Jamie McLeod-Skinner","Greg Walden",145298,207597,0.394072290071574,0.563037517391764,"Republican",2018,"female","male","male","Trump",FALSE
+"327","OR",3,"Earl Blumenauer","Tom Harrison",279019,76187,0.725995639118873,0.198235352279055,"Democrat",2018,"male","male","male","Clinton",FALSE
+"328","OR",4,"Peter DeFazio","Art Robinson",208710,152414,0.559704794673003,0.40873387271952,"Democrat",2018,"male","male","male","Clinton",FALSE
+"329","OR",5,"Kurt Schrader","Mark Callahan",197187,149887,0.550081039085667,0.418130995985706,"Democrat",2018,"male","male","male","Clinton",FALSE
+"330","PA",1,"Henry Scott Wallace","Brian K Fitzpatrick",160745,169053,0.487404411185028,0.512595588814972,"Republican",2018,"male","male","male","Clinton",FALSE
+"331","PA",10,"George B Scott","Scott G Perry",141668,149365,0.486776413671302,0.513223586328698,"Republican",2018,"male","male","male","Trump",FALSE
+"332","PA",11,"Jessica King","Lloyd K Smucker",113876,163708,0.410239783272811,0.589760216727189,"Republican",2018,"Unknown","male","male","Trump",FALSE
+"333","PA",12,"Marc Friedenberg","Thomas A Marino",82825,161047,0.339624885185671,0.660375114814329,"Republican",2018,"Unknown","male","male","Trump",FALSE
+"334","PA",13,"Brent M Ottaway","John Joyce",74733,178533,0.295077112600981,0.704922887399019,"Republican",2018,"male","Unknown","Unknown","Clinton",FALSE
+"335","PA",14,"Bibiana Boerio","Guy L Reschenthaler",110051,151386,0.420946537789219,0.579053462210781,"Republican",2018,"Unknown","male","male","Clinton",FALSE
+"336","PA",15,"Susan Boser","Glenn William  Thompson Jr.",78327,165245,0.321576371668336,0.678423628331664,"Republican",2018,"Unknown","male","male","Trump",FALSE
+"337","PA",16,"Ronald A Dinicola","George J  Kelly Jr.",124109,135348,0.4729835820668,0.515815789874846,"Republican",2018,"male","male","male","Trump",FALSE
+"338","PA",17,"Conor James Lamb","Keith Rothfus",183162,142417,0.562573138930951,0.437426861069049,"Democrat",2018,"male","Unknown","male","Trump",TRUE
+"339","PA",18,"Michael F  Doyle Jr.","No candidate",231472,0,1,NA,"Democrat",2018,"male","N/A","male","Trump",TRUE
+"340","PA",2,"Brendan F Boyle","David Torres",159600,42382,0.790169421037518,0.209830578962482,"Democrat",2018,"male","Unknown","male","Clinton",FALSE
+"341","PA",3,"Dwight Evans","Bryan E Leib",287610,20387,0.93380779682919,0.0661922031708101,"Democrat",2018,"Unknown","male","Unknown","Trump",TRUE
+"342","PA",4,"Madeleine Dean Cunnane ","Daniel David",211524,121467,0.63522437543357,0.36477562456643,"Democrat",2018,"Unknown","Unknown","Unknown","Trump",TRUE
+"343","PA",5,"Mary Gay Scanlon","Pearl Kim",198639,106075,0.651886687188643,0.348113312811358,"Democrat",2018,"female","Unknown","female","Trump",TRUE
+"344","PA",6,"Christina Jampoler Houlahan","Gregory Michael  Mccauley Sr.",177704,124124,0.588759160846575,0.411240839153425,"Democrat",2018,"female","male","female","Clinton",FALSE
+"345","PA",7,"Susan Ellis Wild","Martin W Nothstein",140813,114437,0.534879834081007,0.434690288345026,"Democrat",2018,"female","male","female","Clinton",FALSE
+"346","PA",8,"Matthew Alton Cartwright","John Robert Chrin",135603,112563,0.546420541089432,0.453579458910568,"Democrat",2018,"male","male","male","Trump",TRUE
+"347","PA",9,"Dennis Wolff","Daniel Meuser",100204,148723,0.402543717636094,0.597456282363906,"Republican",2018,"Unknown","Unknown","Unknown","Trump",FALSE
+"348","RI",1,"David N. Cicilline","Patrick J. Donovan",116099,57567,0.666917504868367,0.330687086045162,"Democrat",2018,"male","male","male","Clinton",FALSE
+"349","RI",2,"James R. Langevin","Salvatore G. Caiozzo",126476,72271,0.634929240902222,0.362811688931058,"Democrat",2018,"male","male","male","Clinton",FALSE
+"350","SC",1,"Joe Cunningham","Katie Arrington",145455,141473,0.506048366054002,0.492194702765514,"Democrat",2018,"male","female","male","Trump",TRUE
+"351","SC",2,"Sean Carrigan","Joe Wilson",109199,144642,0.424669147814995,0.56250510424323,"Republican",2018,"male","male","male","Trump",FALSE
+"352","SC",3,"Mary Geren","Jeff Duncan",70046,153338,0.309658538310552,0.677874838641227,"Republican",2018,"female","male","male","Trump",FALSE
+"353","SC",4,"Brandon P Brown","William Timmons",89182,145321,0.365574912891986,0.59569993851199,"Republican",2018,"male","male","male","Trump",FALSE
+"354","SC",5,"Archie Parnell","Ralph W Norman",103129,141757,0.414874144638123,0.570269411334023,"Republican",2018,"male","male","male","Trump",FALSE
+"355","SC",6,"James E Jim Clyburn","Gerhard R Gressmann",144765,58282,0.701268692505559,0.282328891214099,"Democrat",2018,"male","male","male","Clinton",FALSE
+"356","SC",7,"Robert Williams","Tom Rice",96564,142681,0.403099092480192,0.595611010461107,"Republican",2018,"male","male","male","Trump",FALSE
+"357","SD",0,"Tim Bjorkman","Dustin ""Dusty"" Johnson",120816,202446,0.360138432234083,0.603467959972695,"Republican",2018,"male","male","male","Trump",FALSE
+"358","TN",1,"Marty Olsen","Phil Roe",47138,172835,0.210172907322032,0.770614672599674,"Republican",2018,"male","male","male","Trump",FALSE
+"359","TN",2,"Renee Hoyos","Tim Burchett",86668,172856,0.3306247949522,0.659418465365042,"Republican",2018,"female","male","male","Trump",FALSE
+"360","TN",3,"Danielle Mitchell","Chuck Fleischmann",84731,156512,0.344764307366793,0.636836001871707,"Republican",2018,"female","male","male","Trump",FALSE
+"361","TN",4,"Mariah Phillips","Scott DesJarlais",78065,147323,0.335834218824613,0.63378088285273,"Republican",2018,"female","male","male","Trump",FALSE
+"362","TN",5,"Jim Cooper","Jody M. Ball",177923,84317,0.678453219852964,0.321516274671304,"Democrat",2018,"male","female","male","Clinton",FALSE
+"363","TN",6,"Dawn Barlow","John Rose",70370,172810,0.282905845461124,0.694741497145614,"Republican",2018,"female","male","male","Trump",FALSE
+"364","TN",7,"Justin Kanew","Mark E. Green",81661,170071,0.321014686458268,0.668560129567897,"Republican",2018,"male","male","male","Trump",FALSE
+"365","TN",8,"Erika Stotts Pearson","David Kustoff",74755,168030,0.30101270410115,0.676599085948982,"Republican",2018,"female","male","male","Trump",FALSE
+"366","TN",9,"Steve Cohen","Charlotte Bergmann",145139,34901,0.799769666512376,0.192317441424761,"Democrat",2018,"male","female","male","Clinton",FALSE
+"367","TX",1,"Shirley J. McKellar","Louie Gohmert",61263,168165,0.263247679614988,0.722606565830182,"Republican",2018,"female","male","male","Trump",FALSE
+"368","TX",10,"Mike Siegel","Michael T. McCaul",144034,157166,0.467905674291079,0.510565999733617,"Republican",2018,"male","male","male","Trump",FALSE
+"369","TX",11,"Jennie Lou Leeder","Mike Conaway",40631,176603,0.184370419780649,0.801367656334372,"Republican",2018,"female","male","male","Trump",FALSE
+"370","TX",12,"Vanessa Adia","Kay Granger",90994,172557,0.338908939219564,0.642691933807837,"Republican",2018,"female","female","female","Trump",FALSE
+"371","TX",13,"Greg Sagan","Mac Thornberry",35083,169027,0.169250066333792,0.815432858142171,"Republican",2018,"male","male","male","Trump",FALSE
+"372","TX",14,"Adrienne Bell","Randy Weber",92212,138942,0.393181197980625,0.592432460090053,"Republican",2018,"female","male","male","Trump",FALSE
+"373","TX",15,"Vicente Gonzalez","Tim Westley",98333,63862,0.596673584058446,0.387507433162219,"Democrat",2018,"male","male","male","Clinton",FALSE
+"374","TX",16,"Veronica Escobar","Rick Seeberger",124437,49127,0.684645179748451,0.270293913751554,"Democrat",2018,"female","male","female","Clinton",FALSE
+"375","TX",17,"Rick Kennedy","Bill Flores",98070,134841,0.413185535346386,0.568107991961273,"Republican",2018,"male","male","male","Trump",FALSE
+"376","TX",18,"Sheila Jackson Lee","Ava Reynero Pate",138704,38368,0.75246837228479,0.208146171039212,"Democrat",2018,"female","female","female","Clinton",FALSE
+"377","TX",19,"Miguel Levario","Jodey Arrington",50039,151946,0.247736218035993,0.752263781964007,"Republican",2018,"male","male","male","Trump",FALSE
+"378","TX",2,"Todd Litton","Dan Crenshaw",119992,139188,0.455564329972057,0.528444295954319,"Republican",2018,"male","male","male","Trump",FALSE
+"379","TX",20,"Joaquin Castro","No candidate",139038,0,0.808534394026622,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"380","TX",21,"Joseph Kopser","Chip Roy",168421,177654,0.476280834914611,0.502391004957341,"Republican",2018,"male","male","male","Trump",FALSE
+"381","TX",22,"Sri Preston Kulkarni","Pete Olson",138153,152750,0.464528168658899,0.513609387871757,"Republican",2018,"female","male","male","Trump",FALSE
+"382","TX",23,"Gina Ortiz Jones","Will Hurd",102359,103285,0.487263708590987,0.491671784032865,"Republican",2018,"female","male","male","Clinton",FALSE
+"383","TX",24,"Jan McDowell","Kenny E Marchant",125231,133317,0.475407906824894,0.506104366444207,"Republican",2018,"female","male","male","Trump",FALSE
+"384","TX",25,"Julie Oliver","Roger Williams",136385,163023,0.447820248035646,0.535286140671739,"Republican",2018,"female","male","male","Trump",FALSE
+"385","TX",26,"Linsey Fagan","Michael C. Burgess",121938,185551,0.39019535687429,0.593753699940801,"Republican",2018,"female","male","male","Trump",FALSE
+"386","TX",27,"Eric Holguin","Michael Cloud",75929,125118,0.366062259848328,0.603207968334932,"Republican",2018,"male","male","male","Trump",FALSE
+"387","TX",28,"Henry Cuellar","No candidate",117494,0,0.843908465372847,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"388","TX",29,"Sylvia R. Garcia","Phillip Aronoff",88188,28098,0.750574497421145,0.239144126508588,"Democrat",2018,"female","male","female","Clinton",FALSE
+"389","TX",3,"Lorie Burch","Van Taylor",138234,169520,0.442333229870309,0.542444905939311,"Republican",2018,"female","male","male","Trump",FALSE
+"390","TX",30,"Eddie Bernice Johnson","No candidate",166784,0,0.910522235688471,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"391","TX",31,"Mary Jennings """"MJ"""" Hegar","John Carter",136362,144680,0.476778540385375,0.505861744642614,"Republican",2018,"female","male","male","Trump",FALSE
+"392","TX",32,"Colin Allred","Pete Sessions",144067,126101,0.522701545606269,0.457517596691096,"Democrat",2018,"male","male","male","Clinton",FALSE
+"393","TX",33,"Marc Veasey","Willie Billups",90805,26120,0.761633563712004,0.219083406025632,"Democrat",2018,"male","male","male","Clinton",FALSE
+"394","TX",34,"Filemon B. Vela","Rey Gonzalez",85825,57243,0.599889563005005,0.400110436994995,"Democrat",2018,"male","male","male","Clinton",FALSE
+"395","TX",35,"Lloyd Doggett","David Smalling",138278,50553,0.712527116923537,0.260492510318601,"Democrat",2018,"male","male","male","Clinton",FALSE
+"396","TX",36,"Dayna Steele","Brian Babin",60908,161048,0.274414748869145,0.725585251130855,"Republican",2018,"female","male","male","Trump",FALSE
+"397","TX",4,"Catherine Krantz","John Ratcliffe",57400,188667,0.230295492387009,0.756954001083271,"Republican",2018,"female","male","male","Trump",FALSE
+"398","TX",5,"Dan Wood","Lance Gooden",78666,130617,0.375481487492065,0.623449335821715,"Republican",2018,"male","male","male","Trump",FALSE
+"399","TX",6,"Jana Lynne Sanchez","Ron Wright",116350,135961,0.454417634606822,0.531010537333719,"Republican",2018,"female","male","male","Trump",FALSE
+"400","TX",7,"Lizzie Pannill Fletcher","John Culberson",127959,115642,0.525281094905193,0.474718905094807,"Democrat",2018,"female","male","female","Clinton",FALSE
+"401","TX",8,"Steven David","Kevin Brady",67930,200619,0.248672987516931,0.734410806457517,"Republican",2018,"male","male","male","Trump",FALSE
+"402","TX",9,"Al Green","No candidate",136256,0,0.890556270874047,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"403","UT",1,"Lee Castillo","Rob Bishop",63308,156692,0.248917757428254,0.616089929344599,"Republican",2018,"male","male","male","Trump",FALSE
+"404","UT",2,"Shireen Ghorbani","Chris Stewart",105051,151489,0.389014382841315,0.560978951578261,"Republican",2018,"female","male","male","Trump",FALSE
+"405","UT",3,"James Courage Singer","John Curtis",70686,174856,0.273068632223072,0.675490037008707,"Republican",2018,"male","male","male","Trump",FALSE
+"406","UT",4,"Ben McAdams","Mia B. Love",134964,134270,0.501219960560179,0.498642631401079,"Democrat",2018,"male","female","male","Trump",TRUE
+"407","VA",1,"Vangie A. Williams","Robert J. ""Rob"" Wittman",148464,183250,0.447044724345907,0.551789967509884,"Republican",2018,"female","male","male","Trump",FALSE
+"408","VA",10,"Jennifer T. Wexton","Barbara J. Comstock",206356,160841,0.561062548430512,0.437311545833956,"Democrat",2018,"female","female","female","Clinton",FALSE
+"409","VA",11,"Gerald Edward Connolly","Jeff A. Dove Jr.",219191,83023,0.711081914030819,0.269336577453366,"Democrat",2018,"male","male","male","Clinton",FALSE
+"410","VA",2,"Elaine G. Luria","Scott W. Taylor",139571,133458,0.510501097293343,0.488141916605706,"Democrat",2018,"female","male","female","Trump",TRUE
+"411","VA",3,"Robert C. ""Bobby"" Scott","No candidate",198615,0,0.912241298536666,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"412","VA",4,"A. Donald McEachin","Ryan A. McAdams",187642,107706,0.62577787856757,0.359194808139961,"Democrat",2018,"Unknown","male","Unknown","Clinton",FALSE
+"413","VA",5,"Leslie C. Cockburn","Denver L. Riggleman, III",145040,165339,0.466477554144716,0.531763184809247,"Republican",2018,"female","male","male","Trump",FALSE
+"414","VA",6,"Jennifer Lynn Lewis","Ben L. Cline",113133,167957,0.402069110126272,0.596910906008664,"Republican",2018,"female","male","male","Trump",FALSE
+"415","VA",7,"Abigail A. Spanberger","Dave A. Brat",176079,169295,0.503366180392964,0.483972407326409,"Democrat",2018,"female","male","female","Trump",TRUE
+"416","VA",8,"Donald S. Beyer, Jr.","Thomas S. Oh",247137,76899,0.761011615160063,0.236795915602252,"Democrat",2018,"male","male","male","Clinton",FALSE
+"417","VA",9,"Anthony J. Flaccavento","H. Morgan Griffith",85833,160933,0.34753016438578,0.651603368693821,"Republican",2018,"male","Unknown","Unknown","Trump",FALSE
+"418","VT",0,"Peter Welch","Anya Tynio",188547,70705,0.692040036557032,0.259514554910791,"Democrat",2018,"male","female","male","Clinton",FALSE
+"419","WA",1,"Suzan DelBene","Jeffrey Beeler",197209,135534,0.592676630312283,0.407323369687717,"Democrat",2018,"female","male","female","Clinton",FALSE
+"420","WA",10,"Denny Heck","Joseph Brumbles ",166215,103860,0.615440155512358,0.384559844487642,"Democrat",2018,"male","male","male","Clinton",FALSE
+"421","WA",2,"Rick Larsen","No candidate",210187,0,0.712901880047349,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"422","WA",3,"Carolyn Long","Jaime Herrera Beutler",145407,161819,0.473290021026866,0.526709978973134,"Republican",2018,"female","male","male","Trump",FALSE
+"423","WA",4,"Christine Brown","Dan Newhouse",83785,141551,0.371822522810381,0.628177477189619,"Republican",2018,"female","male","male","Trump",FALSE
+"424","WA",5,"Lisa Brown","Cathy McMorris Rodgers",144925,175422,0.452400053691778,0.547599946308222,"Republican",2018,"female","female","female","Trump",FALSE
+"425","WA",6,"Derek Kilmer","Douglas Dightman",206409,116677,0.638867050878094,0.361132949121906,"Democrat",2018,"male","male","male","Clinton",FALSE
+"426","WA",7,"Pramila Jayapal","Craig Keller",329800,64881,0.835611544513164,0.164388455486836,"Democrat",2018,"Unknown","male","Unknown","Clinton",FALSE
+"427","WA",8,"Kim Schrier","Dino Rossi",164089,148968,0.524150554052457,0.475849445947543,"Democrat",2018,"female","male","female","Clinton",FALSE
+"428","WA",9,"Adam Smith","No candidate",163345,0,0.679000029097923,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"429","WA",9,"Sarah Smith","No candidate",77222,0,0.320999970902077,NA,"Democrat",2018,"female","N/A","female","Clinton",FALSE
+"430","WI",1,"Randy Bryce","Bryan Steil",137508,177492,0.422689253866229,0.545597063787014,"Republican",2018,"male","male","male","Trump",FALSE
+"431","WI",2,"Mark Pocan","No candidate",309116,0,0.974222726484817,NA,"Democrat",2018,"male","N/A","male","Clinton",FALSE
+"432","WI",3,"Ron Kind","Steve Toft",187888,126980,0.5964906711028,0.403125188498646,"Democrat",2018,"male","male","male","Trump",TRUE
+"433","WI",4,"Gwen S. Moore","Tim Rogers",206487,59091,0.756121675510002,0.216381592679256,"Democrat",2018,"female","male","female","Clinton",FALSE
+"434","WI",5,"Tom Palzewicz","F. James Sensenbrenner, Jr.",138385,225619,0.379878008608573,0.619342388439916,"Republican",2018,"male","Unknown","Unknown","Trump",FALSE
+"435","WI",6,"Dan Kohl","Glenn Grothman",144536,180311,0.444637226400874,0.554692138495378,"Republican",2018,"male","male","male","Trump",FALSE
+"436","WI",7,"Margaret Engebretson","Sean P. Duffy",124307,194061,0.385042126130591,0.601105810928014,"Republican",2018,"female","male","male","Trump",FALSE
+"437","WV",1,"Kendra Fershee","David B McKinley",70217,127997,0.354248438556308,0.645751561443692,"Republican",2018,"female","male","male","Trump",FALSE
+"438","WV",2,"Talley Sergent","Alex X. Mooney",88011,110504,0.429757998359311,0.539591390288683,"Republican",2018,"female","male","male","Trump",FALSE
+"439","WV",3,"Richard Ojeda II","Carol Miller",76340,98645,0.436265965654199,0.563734034345801,"Republican",2018,"male","female","female","Trump",FALSE
+"440","WY",0,"Greg Hunter","Liz Cheney",59903,127963,0.29766205371562,0.63585679147308,"Republican",2018,"male","female","female","Trump",FALSE
